@@ -11,7 +11,7 @@
     
    <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
    <h2 align="center">
-   <a href="https://discord.gg/1743" target="_blank"><img align="center" alt="isovich" width="80px" src="https://cdn.discordapp.com/emojis/1238097149712011304.webp?size=96&quality=lossless" /> </a>
+   <a href="https://discord.gg/1916" target="_blank"><img align="center" alt="isovich" width="80px" src="https://cdn.discordapp.com/emojis/1238097149712011304.webp?size=96&quality=lossless" /> </a>
     </h2>
    </br>
    
@@ -28,7 +28,7 @@
    <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
    
    <h2 align="center">
-    <a href="https://discord.com/users/244270216492613632"><img  width="400px" src="https://lanyard.kyrie25.me/api/244270216492613632?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=1743"></a>
+    <a href="https://discord.com/users/244270216492613632"><img  width="400px" src="https://lanyard.kyrie25.me/api/244270216492613632?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=1916"></a>
    <br> </br>
    <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
    <p align="center">
