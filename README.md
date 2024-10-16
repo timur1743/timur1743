@@ -1,4 +1,4 @@
-<h1 align="center"> </🌼timur1743>
+<h1 align="center"> </🌼timur1916>
     <img href="https://discord.com/users/244270216492613632" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=Selam+ben+Timur" alt="İsovich Was Here" />
    </h1>
    <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
